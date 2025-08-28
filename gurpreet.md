@@ -18,3 +18,5 @@ cout
   return 0;
 }
 ```
+
+![gurpreet](https://github.com/gurpreetsahota007/PPS_CEA_Dec2025/blob/main/gk.png)
